@@ -27,7 +27,8 @@ Main features:
  					 																																																								
 • Clean, minimal UI with user friendly UX.
                                                                                               
-• Brief reading statistics. 					 						                                                                                              																																																		
+• Brief reading statistics. 					 						  
+                                                                                                                                                                                   
 • Discover titles based on categories you like.                                                                                              
 
 
