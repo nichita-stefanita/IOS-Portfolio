@@ -12,9 +12,6 @@ Main features:
 • Full dark-mode support.                                                                                                                                                                                            
 • Tips and guides throughout the app.                                                                                              
 
-<p align="center">
-<img src="images/image.png" width="900" title="ME">
-</p>
 
 
 # MicroBook - read book summaries 
@@ -31,7 +28,8 @@ Main features:
                                                                                                                                                                                    
 • Discover titles based on categories you like.                                                                                              
 
-
-<p align="center">
-<img src="images/image.png" width="900" title="Microbook">
-</p>
+# Hastnet 
+[Hastnet](https://apps.apple.com/us/app/hastnet/id1451949900) 
+                                                                                                                            
+Brief description:                                                                                                                            
+Hästnet is Europe's largest marketplace for horses and all things related to horses
