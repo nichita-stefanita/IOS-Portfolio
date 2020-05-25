@@ -1,6 +1,7 @@
 
 # Me - Caller ID Spam Protection 
 [Me](https://testflight.apple.com/join/6HxO0iLE) smart caller ID with Call and SMS Spam protection.                                                                                              
+
 Main features:
 
 • Contacts back-up and restore.                                                                                              
@@ -23,9 +24,9 @@ Brief description:
 My first project as an iOS app developer. Was featured in AppStore in the Book Category.                                     
 Main features:                                                                                              
  					 																																																								
-• Clean, minimal UI with user friendly UX. 					 																																																								
-• Brief reading statistics. 					 																																																								
-• Discover titles based on categories you like.
+• Clean, minimal UI with user friendly UX.                                                                                               					 																																																								
+• Brief reading statistics. 					 						                                                                                              																																																		
+• Discover titles based on categories you like.                                                                                              
 
 
 <p align="center">
