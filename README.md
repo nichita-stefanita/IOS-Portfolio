@@ -21,8 +21,9 @@ Main features:
 [MicroBook](https://apps.apple.com/us/app/microbook-read-book-summaries/id314881531) brings you the most inspiring non-fiction titles in 15-minute book summaries or less.
 
 Brief description:
-My first project as an iOS app developer. Was featured in AppStore in the Book Category.                                     
-Main features:                                                                                              
+My first project as an iOS app developer. Was featured in AppStore in the Book Category.                                                                                                        
+                                                                                              
+Main features:                                                                                                                                                                                            
  					 																																																								
 • Clean, minimal UI with user friendly UX.
                                                                                               
