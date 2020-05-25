@@ -24,7 +24,8 @@ Brief description:
 My first project as an iOS app developer. Was featured in AppStore in the Book Category.                                     
 Main features:                                                                                              
  					 																																																								
-• Clean, minimal UI with user friendly UX.                                                                                               					 																																																								
+• Clean, minimal UI with user friendly UX.
+                                                                                              
 • Brief reading statistics. 					 						                                                                                              																																																		
 • Discover titles based on categories you like.                                                                                              
 
