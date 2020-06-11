@@ -12,7 +12,7 @@ Main features:
 • Full dark-mode support.                                                                                                                                                                                            
 • Tips and guides throughout the app.                                                                                              
 <p align="center">
-<img src="ScreenShots/Me/1.png" width="900" title="Me">
+<img src="Screenshots/Microbook/1.png" width="900" title="Me">
 </p>
 
 # MicroBook 
