@@ -29,7 +29,7 @@ Main features:
                                                                                                                                                                                    
 • Discover titles based on categories you like.                                                                                              
 <p align="center">
-<img src="ScreenShots/Microbook/1.png" width="900" title="Microbook">
+<img src="screenshots/Microbook/1.png" width="900" title="Microbook">
 </p>
 
 # LogoMaker 
