@@ -12,7 +12,7 @@ Main features:
 • Full dark-mode support.                                                                                                                                                                                            
 • Tips and guides throughout the app.                                                                                              
 <p align="center">
-<img src="Screenshots/Microbook/1.png" width="900" title="Me">
+<img src="Screenshots/Me/1.png" width="900" title="Me">
 </p>
 
 # MicroBook 
@@ -29,14 +29,14 @@ Main features:
                                                                                                                                                                                    
 • Discover titles based on categories you like.                                                                                              
 <p align="center">
-<img src="screenshots/Microbook/1.png" width="900" title="Microbook">
+<img src="Screenshots/Microbook/1.png" width="900" title="Microbook">
 </p>
 
 # LogoMaker 
 [LogoMaker](https://apps.apple.com/md/app/logo-maker-design-creator/id1151054922) easy to use app with an intuitive interface that lets you create and share logos.
 
 <p align="center">
-<img src="ScreenShots/Logomaker/1.png" width="900" title="Logomaker">
+<img src="Screenshots/Logomaker/1.png" width="900" title="Logomaker">
 </p>
 
 # Hastnet 
@@ -46,5 +46,5 @@ Brief description:
 Hästnet is Europe's largest marketplace for horses and all things related to horses
 
 <p align="center">
-<img src="ScreenShots/Hastnet/1.png" width="900" title="Hastnet">
+<img src="Screenshots/HastNet/1.png" width="900" title="Hastnet">
 </p>
