@@ -15,33 +15,7 @@ Main features:
 <img src="Screenshots/Me/1.png" width="900" title="Me">
 </p>
 
-# MicroBook 
-[MicroBook](https://apps.apple.com/us/app/microbook-read-book-summaries/id314881531) brings you the most inspiring non-fiction titles in 15-minute book summaries or less.
 
-Brief description:
-My first project as an iOS app developer. Was featured in AppStore in the Book Category.                                                                                                        
-                                                                                              
-Main features:                                                                                                                                                                                            
- 					 																																																								
-• Clean, minimal UI with user friendly UX.
-                                                                                              
-• Brief reading statistics. 					 						  
-                                                                                                                                                                                   
-• Discover titles based on categories you like.                                                                                              
-<p align="center">
-<img src="Screenshots/Microbook/1.png" width="900" title="Microbook">
-</p>
 
-# LogoMaker 
-[LogoMaker](https://apps.apple.com/md/app/logo-maker-design-creator/id1151054922) easy to use app with an intuitive interface that lets you create and share logos.
 
-<p align="center">
-<img src="Screenshots/Logomaker/1.png" width="900" title="Logomaker">
-</p>
 
-# Hastnet 
-[Hastnet](https://apps.apple.com/us/app/hastnet/id1451949900) is Europe's largest marketplace for horses and all things related to horses
-
-<p align="center">
-<img src="Screenshots/HastNet/1.png" width="900" title="Hastnet">
-</p>
