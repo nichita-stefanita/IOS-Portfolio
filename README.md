@@ -13,11 +13,17 @@ Follow the story, solve the mystery, learn the theory & play games to learn Engl
 [MyMoldtelecom](https://apps.apple.com/us/app/mymoldtelecom/id1260879758) is an app that allows users to manage their subscription plans (Mobile Telephony Unite/Fixed Telephony/IPTV) for Moldtelecom - one of the biggest telecom company in Moldova.
 
 • Check your account balance, Internet traffic, available minutes
+
 • View rate plans
+
 • Track current and monthy expenses
+
 • Download detailed information about your calls and get the last invoice
+
 • Activate options and additional services
+
 • Manage user services
+
 • View closest Moldtelecom store address on a map
 
 <p align="center">
