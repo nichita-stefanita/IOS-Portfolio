@@ -4,7 +4,7 @@
 Follow the story, solve the mystery, learn the theory & play games to learn English with Langly - a free educational app.
 
 • Follow the story and learn through a visual novel style.  
-• Gamification - check your knowledge by playing games and solving quiz styled tests.
+• Gamification - check your knowledge by playing games and solving quiz styled tests.  
 • Earn rewards completing the story and by completing games.
 
 <p align="center">
