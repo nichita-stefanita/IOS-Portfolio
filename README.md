@@ -51,6 +51,11 @@ Main features:
 # Hastnet 
 [Hastnet](https://apps.apple.com/us/app/hastnet/id1451949900) is Europe's largest marketplace for horses and all things related to horses
 
+• Create and edit your profile.
+• Publish or search for listings with extensive amount of filtering options.  
+• Save listings and searches so you can easily access them everywhere
+• Chat with the seller about the item you are interested in.  
+
 <p align="center">
 <img src="Screenshots/HastNet/1.png" width="900" title="Hastnet">
 </p>
