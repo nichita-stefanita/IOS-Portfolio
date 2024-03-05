@@ -5,6 +5,7 @@ Follow the story, solve the mystery, learn the theory & play games to learn Engl
 
 • Follow the story and learn through a visual novel style.  
 • Gamification - check your knowledge by playing games and solving quiz styled tests.
+• Earn rewards completing the story and by completing games.
 
 <p align="center">
 <img src="Screenshots/Langly.png" width="900" title="Me">
