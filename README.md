@@ -1,6 +1,21 @@
+# Langly
+[Langly: Oxford English Lessons](https://apps.apple.com/us/app/langly-oxford-english-lessons/id1590108463)
 
+<p align="center">
+<img src="Screenshots/Langly.png" width="900" title="Me">
+</p>
+
+
+# MyMoldtelecom
+[MyMoldtelecom](https://apps.apple.com/us/app/mymoldtelecom/id1260879758)
+
+<p align="center">
+<img src="Screenshots/MyMoldtelecom.png" width="900" title="Me">
+</p>
 # Me 
-[Me](https://testflight.apple.com/join/6HxO0iLE) smart caller ID with Call and SMS Spam protection.                                                                                              
+
+
+[Me](https://apps.apple.com/us/app/me-caller-id/id936601391) smart caller ID with Call and SMS Spam protection.                                                                                              
 
 Main features:
 
