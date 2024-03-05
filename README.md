@@ -53,7 +53,7 @@ Main features:
 
 • Create and edit your profile.
 • Publish or search for listings with extensive amount of filtering options.  
-• Save listings and searches so you can easily access them everywhere
+• Save listings and searches so you can easily access them everywhere.  
 • Chat with the seller about the item you are interested in.  
 
 <p align="center">
